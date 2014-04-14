@@ -3,8 +3,9 @@ Intro
 =====
 
 * What dev cafe is
-* Nothing new here
+* Nothing new here, mostly of interest to devs
 * Quick summary (and personal vision) of techniques I've picked up at different places
+* Don't expect will be able to do everything
 
 
 
@@ -39,8 +40,8 @@ TDD
 
 
 
-CI and deploys
-==============
+VCS, CI deploys
+===============
 
 * Deploying often requires easy deploys
 
@@ -86,4 +87,6 @@ star
 ----
 
 * Small, light, fast
+* Loose coupling
+* Out-of-sync deploys
 
