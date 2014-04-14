@@ -43,9 +43,21 @@ TDD
 VCS, CI deploys
 ===============
 
+Problems now
+------------
+
+* Manual packaging
+
+Future
+------
+
 * Deploying often requires easy deploys
 
-* demo: nodejitsu deploy
+Demo: Nodejitsu deploy
+----------------------
+
+* Only 1 line of config
+* Run it
 
 
 
