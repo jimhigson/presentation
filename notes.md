@@ -1,10 +1,13 @@
 
 % demos
 % 
-%  1) beta search: auto restart (entr/grunt)
+%  1) SEARCH BETA: auto restart (entr/grunt)
 %                  what to edit?
-%  2) 
-% 
+%
+%  2) Oboe.js: run tests on save
+ 
+%  3) Nodejitsu - edit and deploy Oboe.js website
+
 
 Cafe
 =====

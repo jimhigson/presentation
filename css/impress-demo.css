@@ -80,17 +80,24 @@ a {
 .step h1 {
     font-size:250%;
     text-align: center;
-    color:white;
+    color:black;
 }
 
 #profit {
     background: url(../images/gnomes.jpg) no-repeat center center fixed;
     background-size: cover;
 }
+#profit h1 {
+    color:white;
+}
+
 
 #cafe {
     background: url(../images/cafe.jpg) no-repeat center center fixed;
     background-size: cover;
+}
+#cafe h1 {
+    color:white;
 }
 
 
