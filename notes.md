@@ -1,4 +1,11 @@
 
+% demos
+% 
+%  1) beta search: auto restart (entr/grunt)
+%                  what to edit?
+%  2) 
+% 
+
 Intro
 =====
 
@@ -22,21 +29,30 @@ Artisan coding
 
 Friction now
 ------------
-* 20 minute start time
 * editor freezes whenever save a JSP
+* 20 minute start time (Java)
+* can edit locally for some file types
+   * nails/hammers
 
 Ideal future
 ------------
 
 * Editor makes clear what has changed (vcs gutter and easy diffs)
-* demo: beta search auto-restart - make an edit + commit
 
+demo
+----
+* Beta search auto-restart - make an edit + commit
+* Working locally on FE. Service could be remote.
 
 
 TDD
 ===
 
-* demo: Oboe.js run tests on save
+Fit it into work processes
+
+demo
+----
+Oboe.js run tests on save
 
 
 
@@ -77,15 +93,6 @@ Ideal future
 
 
 
-Hacks
-=====
-
-An example of improving our tools (good!)
-
-"when all you have is a hammer every problem starts to look like a nail"
-
-
-
 System architecture
 ===================
 
@@ -102,3 +109,16 @@ star
 * Loose coupling
 * Out-of-sync deploys
 
+
+
+
+
+
+% maybe not include...
+
+Hacks
+=====
+
+An example of improving our tools (good!)
+
+"when all you have is a hammer every problem starts to look like a nail"
