@@ -4,7 +4,7 @@ Intro
 
 * What dev cafe is
 * Nothing new here
-* Quick summary of techniques I've picked up at different places 
+* Quick summary (and personal vision) of techniques I've picked up at different places
 
 
 
@@ -73,5 +73,17 @@ An example of improving our tools (good!)
 
 
 
-Blockers
-========
+System architecture
+===================
+
+now
+---
+
+* Monolith
+* Tightly coupled
+
+star
+----
+
+* Small, light, fast
+
