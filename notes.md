@@ -6,21 +6,19 @@
 %  2) 
 % 
 
-Intro
+Cafe
 =====
 
 * What dev cafe is
+
+
+
+Profit
+======
+
 * Nothing new here, mostly of interest to devs
 * Quick summary (and personal vision) of techniques I've picked up at different places
 * Don't expect will be able to do everything
-
-
-
-Agile principles
-================
-
-* Self organising teams require control of tooling
-* End-to-end work.
 
 
 
@@ -115,6 +113,15 @@ star
 
 
 % maybe not include...
+
+
+Agile principles
+================
+
+* Self organising teams require control of tooling
+* End-to-end work.
+
+
 
 Hacks
 =====

@@ -73,6 +73,25 @@ a {
     transition:         0.5s;
 }
 
+.step {
+
+}
+
+.step h1 {
+    font-size:250%;
+    text-align: center;
+    color:white;
+}
+
+#profit {
+    background: url(../images/gnomes.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+#cafe {
+    background: url(../images/cafe.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
 
 
 /*
@@ -94,7 +113,6 @@ a {
     box-sizing:         border-box;
 
     font-family: 'PT Serif', georgia, serif;
-    font-size: 48px;
     line-height: 1.5;
 }
 
@@ -141,7 +159,6 @@ a {
 
     font-family: 'Open Sans', Arial, sans-serif;
     font-size: 30px;
-    line-height: 36px;
 }
 
 /*
